@@ -1,0 +1,225 @@
+﻿@charset "utf-8";
+/* CSS Document */
+
+
+
+a{
+	text-decoration:none;
+	}
+
+.a1:hover{
+	/*background:#faf9fa;*/
+	background:url(../images/sjbjcp.png);
+
+	}
+.a2{
+	
+	background:url(../images/sjbj.png);
+	}
+
+/*确认按钮 */
+.pass{
+	width:112px;
+	height:33px;
+	background:url(../images/sctgan.png);
+	border:none;
+	cursor:pointer;
+	
+	}
+.pass:hover{
+ 
+    background:url(../images/sctgan1.png);
+
+    
+    }
+.qran{
+    width:77px;
+    height:33px;
+    background:url(../images/qran.png);
+    border:none;
+    cursor:pointer;
+    
+    }
+.qran:hover{
+	background:url(../images/qran1.png);
+	
+	
+	}
+
+.xzan{
+	width:77px;
+	height:33px;
+	background:url(../images/zbxz.png);
+	border:none;
+	cursor:pointer;
+	
+	}
+
+.ssan{
+	width:77px;
+	height:33px;
+	background:url(../images/ssan.png);
+	border:none;
+	cursor:pointer;
+	
+	}
+.ssan:hover{
+	background:url(../images/ssan1.png);
+	
+	}
+
+.xzan:hover{
+	
+	background:url(../images/zbxz1.png);
+	
+	}
+
+/*添加按钮 */
+.tjan{
+	width:77px;
+	height:33px;
+	background:url(../images/tjan.png);
+	border:none;
+	margin-left:15px;
+	cursor:pointer;
+	}
+.tjan:hover{
+	background:url(../images/tjan1.png);
+
+}
+	
+	
+	
+/*修改按钮 */
+.xgan{
+	width:116px;
+	height:33px;
+	background:url(../images/xgan.png);
+	border:none;
+	margin-left:15px;
+	cursor:pointer;
+	}
+	
+.xgan:hover{
+	background:url(../images/xgan2.png);
+	
+	}	
+	
+/*删除按钮 */
+.scan{
+	width:77px;
+	height:33px;
+	background:url(../images/scan.png);
+	border:none;
+	margin-left:15px;
+	cursor:pointer;
+	}
+.scan:hover{
+	background:url(../images/scan1.png);
+	}
+
+
+/*批量删除按钮 */
+.plscan{
+	width:104px;
+	height:33px;
+	background:url(../images/plscan.png);
+	border:none;
+	margin-left:15px;
+	cursor:pointer;
+	}
+
+.plscan:hover{
+	background:url(../images/plscan1.png);
+	}
+	
+	/*分页按钮 */
+.fysy{
+	margin-left:15px;
+	width:77px;
+	height:33px;
+	cursor:pointer;
+	border:none;
+	background:url(../images/fysy.png);
+	
+	}
+.fysy:hover{
+	background:url(../images/fysy1.png);
+
+	}	
+
+.fyxyy{
+	margin-left:15px;
+	width:77px;
+	height:33px;
+	cursor:pointer;
+	border:none;
+	background:url(../images/fyxyy.png);
+	
+	}
+.fyxyy:hover{
+	background:url(../images/fyxyy1.png);
+	
+	}
+.fysyy{
+	margin-left:15px;
+		width:77px;
+	height:33px;
+	cursor:pointer;
+	border:none;
+	background:url(../images/fysyy.png);
+	}
+.fysyy:hover{
+	background:url(../images/fysyy1.png);
+	}
+
+.fywy{
+	margin-left:15px;
+	width:77px;
+	height:33px;
+	cursor:pointer;
+	border:none;
+	background:url(../images/fywy.png);
+	}
+
+.fywy:hover{
+	background:url(../images/fywy1.png);
+	}
+	
+	/*分页按钮------------------------ *
+	
+	
+	
+/*文本框 */
+.text{
+	height:25px;
+	width:155px;
+	border: #DBDBDB 1px solid;
+	border-radius:5px;
+	font-weight:bold;
+	/*background:url(../images/wbkbj.png);*/
+	color:#666;
+	line-height:25px;
+	
+	
+	}
+
+.text1{
+	background:url(../images/wbkbj.png);
+	border:1px solid #75D9EA;
+	}
+
+
+.dbdiv{
+	vertical-align:central;
+	width:100%;
+	height:40px;
+	position:fixed;
+	bottom:0px;
+	border-top:1px solid #DEDEDE;
+	background:#FFF;
+	
+
+	}
+
+
